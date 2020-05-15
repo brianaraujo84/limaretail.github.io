@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hakan-solutions/lima-retail/static/css/main.1c2dcec6.chunk.css",
+    "main.js": "/hakan-solutions/lima-retail/static/js/main.6d3a216a.chunk.js",
+    "runtime-main.js": "/hakan-solutions/lima-retail/static/js/runtime-main.e342498e.js",
+    "static/css/2.e650959b.chunk.css": "/hakan-solutions/lima-retail/static/css/2.e650959b.chunk.css",
+    "static/js/2.932f00a1.chunk.js": "/hakan-solutions/lima-retail/static/js/2.932f00a1.chunk.js",
+    "static/js/3.ff52e2f2.chunk.js": "/hakan-solutions/lima-retail/static/js/3.ff52e2f2.chunk.js",
+    "static/js/4.61ada350.chunk.js": "/hakan-solutions/lima-retail/static/js/4.61ada350.chunk.js",
+    "static/js/5.c2a453db.chunk.js": "/hakan-solutions/lima-retail/static/js/5.c2a453db.chunk.js",
+    "static/js/6.460f2000.chunk.js": "/hakan-solutions/lima-retail/static/js/6.460f2000.chunk.js",
+    "static/js/7.761fb223.chunk.js": "/hakan-solutions/lima-retail/static/js/7.761fb223.chunk.js",
+    "static/js/8.e1cd3343.chunk.js": "/hakan-solutions/lima-retail/static/js/8.e1cd3343.chunk.js",
+    "static/js/9.fc0b78b2.chunk.js": "/hakan-solutions/lima-retail/static/js/9.fc0b78b2.chunk.js",
+    "index.html": "/hakan-solutions/lima-retail/index.html",
+    "precache-manifest.2b8168723c357140fadf86266d4da0fc.js": "/hakan-solutions/lima-retail/precache-manifest.2b8168723c357140fadf86266d4da0fc.js",
+    "service-worker.js": "/hakan-solutions/lima-retail/service-worker.js",
+    "static/js/2.932f00a1.chunk.js.LICENSE.txt": "/hakan-solutions/lima-retail/static/js/2.932f00a1.chunk.js.LICENSE.txt",
+    "static/js/3.ff52e2f2.chunk.js.LICENSE.txt": "/hakan-solutions/lima-retail/static/js/3.ff52e2f2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hakan-solutions/lima-retail/static/media/muli-latin-900italic.fb9b3ba4.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e342498e.js",
+    "static/css/2.e650959b.chunk.css",
+    "static/js/2.932f00a1.chunk.js",
+    "static/css/main.1c2dcec6.chunk.css",
+    "static/js/main.6d3a216a.chunk.js"
+  ]
+}
